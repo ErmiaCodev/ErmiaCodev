@@ -1,4 +1,4 @@
-# [Ermia Moghadami (Ermia Moghadamy)](https://github.com/ErmiaMoghadamy)
+# [Ermia Moghadamy (Ermia Moghadami)](https://github.com/ErmiaMoghadamy)
 # Ermia Codev
 ## Programmer, Fullstack Web/App Developer, SysAdmin & DevOps and Machine Learning Engineer, Official `ITVTO` Educator
 
